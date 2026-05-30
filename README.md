@@ -86,7 +86,7 @@ This dashboard helps businesses:
 
 Add your dashboard screenshot here:
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](IMG-20260530-WA0035.jpg)
 
 ---
 
